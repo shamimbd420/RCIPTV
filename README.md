@@ -1,2 +1,0 @@
-# RCIPTV
-iptv
